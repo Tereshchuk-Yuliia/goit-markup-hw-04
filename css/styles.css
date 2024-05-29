@@ -96,6 +96,10 @@ color: #404bbf;
 /* hero */
 .hero {
 background-color: #2e2f42;
+background-image: linear-gradient(rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)), url(../images/people-office.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
 padding: 188px 0;
 }
 .hero-title {
@@ -187,7 +191,12 @@ background-color: #404bbf;
     padding: 32px 0;
     text-align: center;
 }
+.team-icon {
+    width: 16px;
+    height: 16px;
+    fill: #4d5ae5;
 
+}
 .team-title {
     font-weight: 700;
     font-size: 36px;
