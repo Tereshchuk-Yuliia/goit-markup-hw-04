@@ -222,6 +222,8 @@ background-color: #404bbf;
 .team {
     background-color: #F4F4FD;
     padding: 120px 0;
+    margin: 0 auto;
+    max-width: 1440px;
 }
 .team-title {
     font-weight: 700;
