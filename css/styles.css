@@ -155,7 +155,6 @@ max-width: 1440px;
 .hero-btn:focus{
 background-color: #404bbf;
 }
-
 /* -----features */
 .features {
     background-color: #ffffff;
@@ -306,11 +305,6 @@ background-color: #404bbf;
 .team-link-icon:focus{
     background-color:#404bbf;;
 }
-
-
-
-
-
 /* -------portfolio */
 .portfolio {
     padding-top: 120px;
@@ -432,10 +426,11 @@ transform: translateY(0);
     color: #f4f4fd;
     max-width: 264px;
 }
-/* .footer{
+
+.footer-container{
     display: flex;
     align-items: baseline;
-} */
+}
 .footer-social-section {
     padding: 100px;
     display: flex;
